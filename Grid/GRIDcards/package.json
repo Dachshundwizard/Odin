@@ -1,0 +1,12 @@
+{
+  "name": "GRIDcards",
+  "version": "1.0.0",
+  "description": "First going over browsersync, then onto the GRIDcards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
